@@ -31,6 +31,11 @@ I am currently looking for a **6–7 month final-year internship (PFE)** in **Da
 - Achieved approximately **96% RMSE reduction** at 30% contamination using robust regression methods
 - Developed and compared Random Forest, XGBoost and MLP models
 
+### Mathematics Teacher
+**Acadomia | February 2025 – Present**
+
+- Personalized mathematics tutoring for high school and higher-education students
+
 ## Projects
 
 ### Medical Image Classification — Deep Learning
@@ -58,6 +63,12 @@ Engineering Degree — Data Science & Artificial Intelligence
 2024–2027
 
 Relevant coursework: Machine Learning, Deep Learning, Statistics and Estimation, Data Analysis, Signal Processing, Probability, Optimization, Algorithms and Databases.
+
+**Lycée Mohammed VI d'Excellence, Morocco**  
+CPGE TSI — 2022–2024
+
+**Baccalauréat — Mention Très Bien**  
+2022
 
 ## Languages
 
