@@ -28,7 +28,7 @@ I am currently looking for a **6–7 month final-year internship (PFE)** in **Da
 - Analyzed real eye-tracking datasets with up to 4,255 observations across 16 targets
 - Developed polynomial regression models and compared 11 classical and robust estimation methods
 - Evaluated models using RMSE, bias and cross-validation on real and synthetic data
-- Achieved approximately **96% RMSE reduction** at 30% contamination using robust regression methods
+- Studied the behavior of robust regression methods under increasing contamination
 - Developed and compared Random Forest, XGBoost and MLP models
 
 ### Mathematics Teacher
@@ -38,13 +38,14 @@ I am currently looking for a **6–7 month final-year internship (PFE)** in **Da
 
 ## Projects
 
-### Medical Image Classification | Deep Learning
+### [Skin Lesion Classification | Deep Learning](https://github.com/aelmasrar/melanoma-classification-deep-learning)
 **PyTorch**
 
 - Skin lesion classification using CNN and ResNet18
-- Transfer learning with partial fine-tuning and data augmentation
-- Achieved **96% accuracy** on 2,000 images
-- Evaluated performance using precision, recall, F1-score and confusion matrix
+- Data preprocessing, normalization and data augmentation
+- Transfer learning with ResNet18 and partial fine-tuning of the last convolutional block and classification layer
+- Achieved **95.6% accuracy** on 2,000 evaluation images with a fine-tuned ResNet18
+- Achieved **94.7% recall for the melanoma class**, with confusion matrix analysis
 
 ### POWER | Electricity Consumption Forecasting
 **Python | Team of 5 | Ongoing**
