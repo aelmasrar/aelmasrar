@@ -22,7 +22,7 @@ I am currently looking for a **6–7 month final-year internship (PFE)** in **Da
 
 ## Experience
 
-### Research Internship — Data Science & Machine Learning
+### Research Internship | Data Science & Machine Learning
 **IMS Laboratory, Bordeaux | May 2026 – September 2026**
 
 - Analyzed real eye-tracking datasets with up to 4,255 observations across 16 targets
@@ -38,7 +38,7 @@ I am currently looking for a **6–7 month final-year internship (PFE)** in **Da
 
 ## Projects
 
-### Medical Image Classification — Deep Learning
+### Medical Image Classification | Deep Learning
 **PyTorch**
 
 - Skin lesion classification using CNN and ResNet18
@@ -46,7 +46,7 @@ I am currently looking for a **6–7 month final-year internship (PFE)** in **Da
 - Achieved **96% accuracy** on 2,000 images
 - Evaluated performance using precision, recall, F1-score and confusion matrix
 
-### POWER — Electricity Consumption Forecasting
+### POWER | Electricity Consumption Forecasting
 **Python | Team of 5 | Ongoing**
 
 - Built a multi-source dataset combining electricity consumption, production, weather and calendar data
@@ -58,23 +58,23 @@ I am currently looking for a **6–7 month final-year internship (PFE)** in **Da
 
 ## Education
 
-**ENSEIRB-MATMECA — Bordeaux INP**  
-Engineering Degree — Data Science & Artificial Intelligence  
+**ENSEIRB-MATMECA | Bordeaux INP**  
+Engineering Degree | Data Science & Artificial Intelligence  
 2024–2027
 
 Relevant coursework: Machine Learning, Deep Learning, Statistics and Estimation, Data Analysis, Signal Processing, Probability, Optimization, Algorithms and Databases.
 
 **Lycée Mohammed VI d'Excellence, Morocco**  
-CPGE TSI — 2022–2024
+CPGE TSI | 2022–2024
 
-**Baccalauréat — Mention Très Bien**  
+**Baccalauréat | Mention Très Bien**  
 2022
 
 ## Languages
 
-French — Bilingual  
-English — B2  
-Spanish — B1
+French | Bilingual  
+English | B2  
+Spanish | B1
 
 ## Contact
 
