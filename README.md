@@ -1,61 +1,60 @@
 # Amine Elmasrar
 
-Engineering student at **ENSEIRB-MATMECA (Bordeaux INP)**, specializing in **Data Science & Artificial Intelligence**.
+Engineering student in the final year at **ENSEIRB-MATMECA (Bordeaux INP)**, specializing in **Data Science & Artificial Intelligence**.
 
-I am interested in **Data Science, Machine Learning and Deep Learning**, with experience in robust statistics, model evaluation and deployment.
+I am currently looking for a **6–7 month final-year internship (PFE)** in **Data Science, Machine Learning or Deep Learning**, starting in **February 2027** in France.
 
-I am currently looking for a **6–7 month final-year internship (PFE)** in **Data Science or Machine Learning**, starting in **February 2027** in France.
+Experience in **Machine Learning, Deep Learning, robust statistics and optimization**.
 
 ## Technical Skills
 
-**Supervised Machine Learning:** Regression, Classification, SVM, k-NN, Random Forest, Gradient Boosting (XGBoost, LightGBM, CatBoost), scikit-learn
+**Machine Learning:** Regression, Classification, SVM, k-NN, Random Forest, XGBoost, LightGBM, CatBoost, PCA, K-means
 
-**Unsupervised Machine Learning:** PCA, Clustering (K-means, DBSCAN)
+**Data Science:** Exploratory Data Analysis (EDA), Data Preprocessing, Feature Engineering, Cross-Validation, Hyperparameter Optimization (GridSearch, Optuna), Interpretability (SHAP), Robust Statistics, Time Series
 
-**Data Science:** EDA, Data Preprocessing, Feature Engineering, Cross-Validation, Hyperparameter Optimization (GridSearch, Optuna), SHAP, Robust Statistics
-
-**Deep Learning:** PyTorch, CNN, ResNet, Transfer Learning, Fine-Tuning
+**Deep Learning & AI:** PyTorch, CNN, ResNet, RNN, Transformers, Transfer Learning, Fine-Tuning, Embeddings, RAG
 
 **MLOps:** MLflow, FastAPI, Docker, GitHub Actions (CI), pytest
 
-**Programming & Tools:** Python, SQL, Pandas, NumPy, Matplotlib, Git/GitHub, Linux
+**Programming & Tools:** Python, SQL, pandas, NumPy, Matplotlib, Git/GitHub, Linux
 
 ## Experience
 
-### Research Internship | Data Science & Machine Learning
-**IMS Laboratory, Bordeaux | May 2026 – September 2026**
+### Data Science & Machine Learning Internship | IMS Laboratory, Bordeaux
+**May 2026 – September 2026 | 4 months**
 
-- Analyzed real eye-tracking datasets with up to 4,255 observations across 16 targets
-- Developed polynomial regression models and compared 11 classical and robust estimation methods
-- Evaluated models using RMSE, bias and cross-validation on real and synthetic data
-- Studied the behavior of robust regression methods under increasing contamination
-- Developed and compared Random Forest, XGBoost and MLP models
+- Analyzed and modeled 3 eye-tracking datasets with up to 4,255 observations
+- Developed and compared 11 robust regression methods, including robust loss functions and high-breakdown estimators
+- Detected atypical observations using Cook's distance and DFBETAS
+- Analyzed model sensitivity to perturbations and numerical conditioning
+- Validated models using Monte Carlo simulations, cross-validation, RMSE and bias
+- Achieved an **18.4% reduction in 2D RMSE** compared with Ordinary Least Squares (OLS) on contaminated real eye-tracking data
+- Compared Machine Learning models: **Random Forest, XGBoost and MLP**
 
-### Mathematics Teacher
-**Acadomia | February 2025 – Present**
+### Mathematics Teacher | Acadomia
+**February 2025 – Present**
 
 - Personalized mathematics tutoring for high school and higher-education students
 
 ## Projects
 
-### [Skin Lesion Classification | Deep Learning](https://github.com/aelmasrar/melanoma-classification-deep-learning)
-**PyTorch**
+### [Medical Image Classification with Deep Learning | PyTorch](https://github.com/aelmasrar/melanoma-classification-deep-learning)
+**April – May 2026 | Academic project, ENSEIRB-MATMECA**
 
-- Skin lesion classification using CNN and ResNet18
-- Data preprocessing, normalization and data augmentation
-- Transfer learning with ResNet18 and partial fine-tuning of the last convolutional block and classification layer
-- Achieved **95.6% accuracy** on 2,000 evaluation images with a fine-tuned ResNet18
-- Achieved **94.7% recall for the melanoma class**, with confusion matrix analysis
+- Skin lesion classification using PyTorch; design and training of a CNN
+- Image preprocessing, normalization and data augmentation; comparison of optimizers and learning rates
+- Transfer learning with ResNet18 and fine-tuning of the last convolutional block and classification layer
+- Achieved **95.6% accuracy** on 2,000 images, with **94.7% melanoma recall** and confusion matrix analysis
 
-### POWER | Electricity Consumption Forecasting
-**Python | Team of 5 | Ongoing**
+### [Electricity Consumption Forecasting in France | Python](https://github.com/aelmasrar/POWER-Prevision-Consommation-Electrique-en-France)
+**October 2026 – Ongoing | Academic project, ENSEIRB-MATMECA | Team of 5**
 
-- Built a multi-source dataset combining electricity consumption, production, weather and calendar data
-- Performed data preprocessing and feature engineering
-- Used temporal validation with `TimeSeriesSplit`
-- Compared XGBoost, LightGBM and CatBoost
-- Developed a local application for model inference in an MLOps-oriented workflow
-- Responsible for Machine Learning modeling and model evaluation
+- Building a multi-source dataset combining electricity consumption, production, weather and calendar data
+- Feature engineering for electricity consumption forecasting
+- Comparing XGBoost, LightGBM and CatBoost
+- Evaluating models using regression metrics
+- Designing an **MLOps architecture** for model training, tracking, validation and deployment
+- **Role:** responsible for Machine Learning modeling and model evaluation
 
 ## Education
 
@@ -76,6 +75,10 @@ CPGE TSI | 2022–2024
 French | Bilingual  
 English | B2  
 Spanish | B1
+
+## Interests
+
+Football | Reading | Travel
 
 ## Contact
 
