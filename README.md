@@ -29,7 +29,7 @@ Experience in **Machine Learning, Deep Learning, robust statistics and optimizat
 - Analyzed model sensitivity to perturbations and numerical conditioning
 - Validated models using Monte Carlo simulations, cross-validation, RMSE and bias
 - Achieved an **18.4% reduction in 2D RMSE** compared with Ordinary Least Squares (OLS) on contaminated real eye-tracking data
-- Compared Machine Learning models: **Random Forest, XGBoost and MLP**
+- Compared Machine Learning models: **Random Forest and MLP**
 
 ### Mathematics Teacher | Acadomia
 **February 2025 – Present**
