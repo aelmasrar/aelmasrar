@@ -54,7 +54,7 @@ Experience in **Machine Learning, Deep Learning, robust statistics and optimizat
 - Comparing XGBoost, LightGBM and CatBoost
 - Evaluating models using regression metrics
 - Designing an **MLOps architecture** for model training, tracking, validation and deployment
-- **Role:** responsible for Machine Learning modeling and model evaluation
+
 
 ## Education
 
