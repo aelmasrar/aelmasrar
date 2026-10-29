@@ -2,7 +2,7 @@
 
 Engineering student in the final year at **ENSEIRB-MATMECA (Bordeaux INP)**, specializing in **Data Science & Artificial Intelligence**.
 
-I am currently looking for a **6–7 month final-year internship (PFE)** in **Data Science, Machine Learning or Deep Learning**, starting in **February 2027** in France.
+I am currently looking for a **5–6 month final-year internship (PFE)** in **Data Science, Machine Learning or Deep Learning**, starting in **February 2027** in France.
 
 Experience in **Machine Learning, Deep Learning, robust statistics and optimization**.
 
